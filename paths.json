@@ -1,7 +1,7 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/bruce-xwalk/:/",
+    "/content/bruce-xwalk/configuration:/.helix/config.json",
+    "/content/bruce-xwalk/metadata:/metadata.json"
   ]
 }
